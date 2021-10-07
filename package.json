@@ -1,0 +1,10 @@
+{
+  "name": "get-env",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "axios": "^0.22.0"
+  }
+}
