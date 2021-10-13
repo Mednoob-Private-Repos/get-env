@@ -2,7 +2,8 @@
   "name": "get-env",
   "main": "index.js",
   "scripts": {
-    "start": "node ."
+    "start": "node .",
+    "test": "node test.js"
   },
   "dependencies": {
     "axios": "^0.22.0"
